@@ -1,5 +1,9 @@
 # wkhtmltopdf Buildpack
 
+> [!WARNING]
+> This repository has been deprecated and archived.
+> Please use [Puppeteer](https://doc.scalingo.com/languages/nodejs/puppeteer) and the [`pdf`](https://pptr.dev/api/puppeteer.page.pdf) method instead.
+
 This is a [buildpack][0] for bundling a compatible [wkhtmltopdf][1] binary with
 your environment.
 
